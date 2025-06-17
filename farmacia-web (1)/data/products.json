@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Paracetamol 500mg",
+    "image": "https://via.placeholder.com/150",
+    "description": "Alivia dolores leves y fiebre.",
+    "price": 5.99,
+    "availability": "En stock",
+    "requiresPrescription": false,
+    "category": "Medicamentos",
+    "brand": "Gen\u00e9rico",
+    "indication": "Fiebre"
+  },
+  {
+    "id": 2,
+    "name": "Ibuprofeno 400mg",
+    "image": "https://via.placeholder.com/150",
+    "description": "Antiinflamatorio y analg\u00e9sico.",
+    "price": 6.49,
+    "availability": "Bajo pedido",
+    "requiresPrescription": false,
+    "category": "Medicamentos",
+    "brand": "Ibuprex",
+    "indication": "Dolor"
+  },
+  {
+    "id": 3,
+    "name": "C\u00e1psulas Omega 3",
+    "image": "https://via.placeholder.com/150",
+    "description": "Suplemento para salud cardiovascular.",
+    "price": 12.99,
+    "availability": "En stock",
+    "requiresPrescription": false,
+    "category": "Suplementos",
+    "brand": "NutriPlus",
+    "indication": "Coraz\u00f3n"
+  }
+]
